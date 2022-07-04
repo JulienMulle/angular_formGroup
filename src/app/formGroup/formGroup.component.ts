@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, FormControl } from '@angular/forms';
-import { User } from '../models/User';
+import { User } from '../models/User.models';
 
 @Component({
   selector: 'app-formGroup',
